@@ -1,3 +1,4 @@
+require 'meal_choice.rb'
 require 'spec_helper'
 
 describe '#meal_choice' do
